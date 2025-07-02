@@ -22,7 +22,7 @@ repository               : "gigirotto7/gigirotto7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_git.png"
   name             : "Giovanna Girotto"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineering Master's Student"
