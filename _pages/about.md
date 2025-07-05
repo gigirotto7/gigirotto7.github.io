@@ -31,8 +31,8 @@ We earned 1st place at the Latin America Space Challenge (LASC) and grew PoliSat
 
 <p align="center">
   <img src="images\polisat1.jpeg" width="250"/>
-  <img src="images\polisat2.jpeg" width="250"/>
-  <img src="images\polisat3.jpeg" width="250"/>
+  <img src="images\polisat2.png" width="250"/>
+  <img src="images\polisat3.png" width="250"/>
 </p>
 
 Site-wide configuration
