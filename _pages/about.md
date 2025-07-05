@@ -30,9 +30,9 @@ As Mission Lead, I was responsible for overseeing the satellite design and devel
 We earned 1st place at the Latin America Space Challenge (LASC) and grew PoliSat from a small initiative into a team of over 40 students.
 
 <p align="center">
-  <img src="images\ioaa3.jpeg" width="250"/>
-  <img src="images\ioaa2.jpeg" width="250"/>
-  <img src="images\ioaa1.jpeg" width="250"/>
+  <img src="images\polisat1.jpeg" width="250"/>
+  <img src="images\polisat2.jpeg" width="250"/>
+  <img src="images\polisat3.jpeg" width="250"/>
 </p>
 
 Site-wide configuration
