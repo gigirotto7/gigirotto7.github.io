@@ -9,7 +9,7 @@ redirect_from:
 
 I began my journey in mechanical engineering at the University of São Paulo in Brazil, and I'm now continuing it with a master's degree at the Technical University of Munich. What’s driven me all along is a deep passion for space systems and the challenge of solving complex, multidisciplinary problems.
 
-Today, I’m helping build CubeSats, simulating how spacecraft navigate in orbit, and exploring the intersection of robotics, AI, and aerospace.
+Recipient of the AUCANI merit scholarship.
 
 My First Step into Space: IOAA 2019
 ======
@@ -21,22 +21,19 @@ In 2019, after years of dedicated study in astronomy and astronautics, I had the
   <img src="images\ioaa1.jpeg" width="250"/>
 </p>
 
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Polisat: Turning Passion into Action
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+After arriving at the University of São Paulo, I wanted to turn my passion for space into something real. In 2021, I co-founded PoliSat, the university’s first nanosatellite group. We started as just four students with a bold idea: to design and launch a CubeSat from scratch.
+
+As Mission Lead, I was responsible for overseeing the satellite design and developing the constellation architecture for our first mission—focused on Earth observation to support forest regulation and monitoring.
+
+We earned 1st place at the Latin America Space Challenge (LASC) and grew PoliSat from a small initiative into a team of over 40 students.
+
+<p align="center">
+  <img src="images\ioaa3.jpeg" width="250"/>
+  <img src="images\ioaa2.jpeg" width="250"/>
+  <img src="images\ioaa1.jpeg" width="250"/>
+</p>
 
 Site-wide configuration
 ------
