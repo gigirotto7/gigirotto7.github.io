@@ -10,34 +10,47 @@ redirect_from:
 I began my journey in mechanical engineering at the University of São Paulo in Brazil, and I'm now continuing it with a master's degree at the Technical University of Munich. What’s driven me all along is a deep passion for space systems and the challenge of solving complex, multidisciplinary problems.
 
 Recipient of the AUCANI merit scholarship.
+------
 
 My First Step into Space: IOAA 2019
-======
+------
 In 2019, after years of dedicated study in astronomy and astronautics, I had the privilege of representing Brazil at the International Olympiad on Astronomy and Astrophysics (IOAA), earning a Bronze Medal. From that moment on, I knew that aerospace systems would be my future.
 
 <p align="center">
-  <img src="images\ioaa3.jpeg" width="250"/>
-  <img src="images\ioaa2.jpeg" width="250"/>
-  <img src="images\ioaa1.jpeg" width="250"/>
+  <img src="images\ioaa3.jpeg" width="150"/>
+  <img src="images\ioaa2.jpeg" width="150"/>
+  <img src="images\ioaa1.jpeg" width="150"/>
 </p>
 
 Polisat: Turning Passion into Action
-======
+------
 After arriving at the University of São Paulo, I wanted to turn my passion for space into something real. In 2021, I co-founded PoliSat, the university’s first nanosatellite group. We started as just four students with a bold idea: to design and launch a CubeSat from scratch.
 
-As Mission Lead, I was responsible for overseeing the satellite design and developing the constellation architecture for our first mission—focused on Earth observation to support forest regulation and monitoring.
+As Mission Lead, I was responsible for overseeing the satellite design and developing the constellation architecture for our first mission focused on Earth observation to support forest regulation and monitoring.
 
 We earned 1st place at the Latin America Space Challenge (LASC) and grew PoliSat from a small initiative into a team of over 40 students.
 
 <p align="center">
-  <img src="images\polisat1.jpeg" width="250"/>
-  <img src="images\polisat2.png" width="250"/>
-  <img src="images\polisat3.png" width="250"/>
+  <img src="images\polisat1.jpeg" width="150"/>
+  <img src="images\polisat2.png" width="150"/>
+  <img src="images\polisat3.png" width="150"/>
 </p>
 
-Site-wide configuration
+Academic Excellence 
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+While building PoliSat and exploring other extracurricular engineering projects, I remained committed to my academic journey. At the University of São Paulo, I remained the top of my class, ranked 1st out of 86 students with a GPA of 9.0/10.
+
+Alongside my studies, I worked as a teaching assistant for four core mechanical engineering lectures:
+
+Mechanics I & II (kinematics and dynamics of rigid bodies)
+
+Solid Mechanics I & II (stress-strain analysis, internal forces, and material deformation)
+
+<p align="center">
+  <img src="images\teach1.jpeg" width="150"/>
+  <img src="images\teach2.jpeg" width="150"/>
+</p>
+
 
 Create content & metadata
 ------
