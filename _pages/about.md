@@ -80,3 +80,9 @@ This role has connected everything I’ve learned in space and mechanical system
   <img src="images\orora1.jpeg" width="150"/>
   <img src="images\orora2.jpg" width="150"/>
 </p>
+
+Looking Ahead - Master Thesis
+------
+As I continue my Master’s at TUM, I’m actively looking for a Master’s thesis opportunity where I can contribute to real-world projects in mission design, guidance and control (GNC), spacecraft systems, or multidisciplinary optimization.
+
+I’m particularly drawn to challenges that require a deep understanding of system dynamics, autonomy, and design trade-offs, whether that’s planning missions, optimizing trajectories, or building intelligent control strategies for space applications.
