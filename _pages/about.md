@@ -55,22 +55,28 @@ Master's at TUM
 ------
 As part of a double degree between the University of São Paulo and the Technical University of Munich (TUM), I moved to Germany to pursue my Master’s degree in Mechanical Engineering, with a focus on Aerospace Engineering and Multidisciplinary Design Optimization.
 
-At TUM, I deepened my knowledge through a series of courses in spacecraft systems, control, and optimization. For my semester thesis, graded 1.3, I developed a simulation framework that integrates Blender and Python to generate realistic orbital scenes for optical navigation research. The tool produces synthetic datasets under varying lighting, noise models, and orbital conditions, enabling the benchmarking of feature point tracking algorithms for autonomous spacecraft navigation.
+At TUM, I took several courses in spacecraft systems, control, and optimization. For my semester thesis, graded 1.3, I developed a simulation framework that integrates Blender and Python to generate realistic orbital scenes for optical navigation research. The tool produces synthetic datasets under varying lighting, noise models, and orbital conditions, enabling the benchmarking of feature point tracking algorithms for autonomous spacecraft navigation. Then, I used this dataset to evaluate the performance of different OpenCV feature-tracking methods.
 
-Following that, I joined a research project on the co-design of flexible robotic systems, focusing on bi-level optimization problems that couple mechanical design with control. The goal is to develop a framework that minimizes control effort by treating both the control inputs and the stiffness matrix of the robot as design variables—resulting in flexible structures that can be 3D-printed in resin for physical validation.
+<p align="center">
+  <img src="images\move1 (2).png" width="150"/>
+  <img src="images\example5.png" width="150"/>
+</p>
 
-**Markdown generator**
+Following that, I joined a research project on the co-design of flexible robotic systems, focusing on bi-level optimization problems that couple mechanical design with control. The goal is to develop a framework that minimizes control effort by treating both the control inputs and the stiffness matrix of the robot as design variables, resulting in flexible structures that can be 3D-printed in resin.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+<p align="center">
+  <img src="images\IMG_6701.jpeg" width="150"/>
+</p>
 
-How to edit your site's GitHub repository
+Working Student at Ororatech GmbH
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Since early 2024, I’ve been a working student at OroraTech, a startup focused on satellite-based wildfire detection and Earth observation.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+As part of the mechanical engineering team, I’ve contributed to the development of a 16U CubeSat, with a focus on the design and validation of deployable solar array systems. My role includes designing mechanical components in SolidWorks, running physical validation tests, and simulating deployment dynamics. I also optimized spring mechanisms for solar panel deployment using Python, and write analysis for the Critical Design Review.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+This role has connected everything I’ve learned in space and mechanical systems, and has also shown me what it takes to build real space hardware ready for launch.
+
+<p align="center">
+  <img src="images\orora1.jpeg" width="150"/>
+  <img src="images\orora2.jpg" width="150"/>
+</p>
