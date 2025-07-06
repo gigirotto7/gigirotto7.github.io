@@ -10,7 +10,6 @@ redirect_from:
 I began my journey in mechanical engineering at the University of São Paulo in Brazil, and I'm now continuing it with a master's degree at the Technical University of Munich. What’s driven me all along is a deep passion for space systems and the challenge of solving complex, multidisciplinary problems.
 
 Recipient of the AUCANI merit scholarship.
-------
 
 My First Step into Space: IOAA 2019
 ------
@@ -52,9 +51,13 @@ Solid Mechanics I & II (stress-strain analysis, internal forces, and material de
 </p>
 
 
-Create content & metadata
+Master's at TUM
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+As part of a double degree between the University of São Paulo and the Technical University of Munich (TUM), I moved to Germany to pursue my Master’s degree in Mechanical Engineering, with a focus on Aerospace Engineering and Multidisciplinary Design Optimization.
+
+At TUM, I deepened my knowledge through a series of courses in spacecraft systems, control, and optimization. For my semester thesis, graded 1.3, I developed a simulation framework that integrates Blender and Python to generate realistic orbital scenes for optical navigation research. The tool produces synthetic datasets under varying lighting, noise models, and orbital conditions, enabling the benchmarking of feature point tracking algorithms for autonomous spacecraft navigation.
+
+Following that, I joined a research project on the co-design of flexible robotic systems, focusing on bi-level optimization problems that couple mechanical design with control. The goal is to develop a framework that minimizes control effort by treating both the control inputs and the stiffness matrix of the robot as design variables—resulting in flexible structures that can be 3D-printed in resin for physical validation.
 
 **Markdown generator**
 
