@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I began my journey in mechanical engineering at the University of São Paulo in Brazil, and I'm now continuing it with a master's degree at the Technical University of Munich. 
-
-Recipient of the AUCANI merit scholarship.
+I began my journey in mechanical engineering at the University of São Paulo in Brazil, and I'm now continuing it with a master's degree at the Technical University of Munich. I’m also a proud recipient of the AUCANI merit scholarship, which has supported my studies across two continents.
 
 In this space, I want to share the path that brought me here: the experiences, challenges, and projects that shaped my passion for space systems. From late afternoons studying astronomy as a teenager, to building CubeSats, this is a story about turning curiosity into purpose.
 
