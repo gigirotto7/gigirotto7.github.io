@@ -17,7 +17,7 @@ In 2019, after years of dedicated study in astronomy and astronautics, I had the
 
 <p align="center">
   <img src="images\ioaa3.jpeg" width="150"/>
-  <img src="images\ioaa2.jpeg" width="150"/>
+  <img src="images\ioaa4.jpeg" width="150"/>
   <img src="images\ioaa1.jpeg" width="150"/>
 </p>
 
@@ -72,7 +72,7 @@ Working Student at Ororatech GmbH
 ------
 Since early 2024, I’ve been a working student at OroraTech, a startup focused on satellite-based wildfire detection and Earth observation.
 
-As part of the mechanical engineering team, I’ve contributed to the development of a 16U CubeSat, with a focus on the design and validation of deployable solar array systems. My role includes designing mechanical components in SolidWorks, running physical validation tests, and simulating deployment dynamics. I also optimized spring mechanisms for solar panel deployment using Python, and write analysis for the Critical Design Review.
+As part of the mechanical engineering team, I’ve contributed to the development of a 16U CubeSat, with a focus on the design and validation of deployable solar array systems. My role includes designing mechanical components in SolidWorks, running physical validation tests, and simulating deployment dynamics. I also optimized spring mechanisms for solar panel deployment using Python, and wrote analysis for the Critical Design Review.
 
 This role has connected everything I’ve learned in space and mechanical systems, and has also shown me what it takes to build real space hardware ready for launch.
 
