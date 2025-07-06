@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I began my journey in mechanical engineering at the University of São Paulo in Brazil, and I'm now continuing it with a master's degree at the Technical University of Munich. What’s driven me all along is a deep passion for space systems and the challenge of solving complex, multidisciplinary problems.
+I began my journey in mechanical engineering at the University of São Paulo in Brazil, and I'm now continuing it with a master's degree at the Technical University of Munich. 
 
 Recipient of the AUCANI merit scholarship.
 
@@ -17,8 +17,8 @@ In 2019, after years of dedicated study in astronomy and astronautics, I had the
 
 <p align="center">
   <img src="images\ioaa3.jpeg" width="150"/>
-  <img src="images\ioaa4.png" width="150"/>
-  <img src="images\ioaa1.jpeg" width="150"/>
+  <img src="images\ioaa4.png" width="180"/>
+  <img src="images\ioaa1.jpeg" width="160"/>
 </p>
 
 Polisat: Turning Passion into Action
@@ -39,7 +39,7 @@ Academic Excellence
 ------
 While building PoliSat and exploring other extracurricular engineering projects, I remained committed to my academic journey. At the University of São Paulo, I remained the top of my class, ranked 1st out of 86 students with a GPA of 9.0/10.
 
-Alongside my studies, I worked as a teaching assistant for four core mechanical engineering lectures:
+Alongside my studies, I worked as a teaching assistant for four lectures:
 
 Mechanics I & II (kinematics and dynamics of rigid bodies)
 
