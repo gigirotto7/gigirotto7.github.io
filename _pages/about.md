@@ -11,6 +11,8 @@ I began my journey in mechanical engineering at the University of São Paulo in 
 
 Recipient of the AUCANI merit scholarship.
 
+In this space, I want to share the path that brought me here: the experiences, challenges, and projects that shaped my passion for space systems. From late afternoons studying astronomy as a teenager, to building CubeSats, this is a story about turning curiosity into purpose.
+
 My First Step into Space: IOAA 2019
 ------
 In 2019, after years of dedicated study in astronomy and astronautics, I had the privilege of representing Brazil at the International Olympiad on Astronomy and Astrophysics (IOAA), earning a Bronze Medal. From that moment on, I knew that aerospace systems would be my future.
