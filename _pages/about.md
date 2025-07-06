@@ -17,7 +17,7 @@ In 2019, after years of dedicated study in astronomy and astronautics, I had the
 
 <p align="center">
   <img src="images\ioaa3.jpeg" width="150"/>
-  <img src="images\ioaa4.jpeg" width="150"/>
+  <img src="images\ioaa4.png" width="150"/>
   <img src="images\ioaa1.jpeg" width="150"/>
 </p>
 
